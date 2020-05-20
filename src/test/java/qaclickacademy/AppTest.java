@@ -34,5 +34,7 @@ public class AppTest
     public void testApp()
     {
         assertTrue( true );
+        System.out.println(1234);
+        System.out.println("ishan");
     }
 }
